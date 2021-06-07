@@ -66,7 +66,7 @@ make block_design
 make bitstream_file
 ```
 
-Alternatively, you can run the entire project build by executing the following into the tcl console:
+Alternatively, you can run the entire project build by executing the following into the tcl console: sasta change
 ```sh
 make all
 ```
